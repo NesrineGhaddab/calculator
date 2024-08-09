@@ -1,0 +1,14 @@
+.pos {
+    margin-top: 10px;
+}
+
+
+.pos3 {
+    position: relative;
+    bottom: 35px;
+}
+
+
+body {
+    background-image: linear-gradient(to bottom ,rgb(255, 81, 81) 50%, rgb(20, 9, 51) 50%);
+}
